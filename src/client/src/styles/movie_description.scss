@@ -1,0 +1,72 @@
+.poster{
+    width: 25%;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.poster-image{
+    width:100%;
+}
+
+.banner-image{
+    display: -webkit-box;
+    width: 80%;
+    margin: auto;
+}
+
+.movie-overview{
+    width: 62%;
+    margin-top: 30px;
+}
+
+.banner-container{
+    background: #c6c6c6;
+}
+
+.movie-details-container{
+    width: 70%;
+    float: left;
+}
+
+.trailers-containers{
+    width: 71%;
+    margin: auto;
+}
+
+.cast-crew-container{
+    width: 71%;
+    margin: auto;
+}
+
+.profile-pic{
+
+    img{
+        width: 87%;
+    }
+}
+
+.recomended-movies{
+    float: left;
+    width: 20%;
+}
+
+.rec-img-container{
+    width: 84%;
+}
+
+.rec-img{
+    width: 100%;
+}
+
+.rec-movie-name{
+    margin-bottom: 28px;
+    width: 56%;
+}
+
+.recomend-movies-list{
+    overflow-y: auto;
+    max-height: 820px;
+}
+
+

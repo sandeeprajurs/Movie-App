@@ -1,0 +1,29 @@
+.movie-images{
+    width: 100%
+}
+
+.container-movie-image{
+    margin-bottom: 24px;
+    margin-right: 14px;
+    width: 23%;
+    margin-left: 19px;
+}
+
+.image-main-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.button-style{
+    width: 2%;
+}
+
+.movie-buttons-slider{
+    width: 46%;
+    margin: auto;
+}
+
+.slick-prev:before, .slick-next:before { 
+    color:red !important;
+}

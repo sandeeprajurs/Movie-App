@@ -1,0 +1,47 @@
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav ul {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav ul a{
+	color: white;
+}
+
+.topnav ul>div>input{
+	width: 550px;
+	color: black;
+}
+
+.image-size{
+  width: 95%;
+}
+
+.view-more{
+  position: relative;
+  margin-right: 20px;
+  float: right;
+  font-size: 22px;
+}
+
+.slick-dots li button::before {
+  font-size: 12px;
+}
+
+.movie-block{
+  margin-bottom: 60px;
+}
+
+.home-page{
+  width: 70%;
+}
+
+
